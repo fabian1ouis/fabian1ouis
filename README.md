@@ -74,19 +74,30 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabian-louis-35b809198/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/_fabianlouis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://fabianlouis.figma.site/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:fabianlouis99@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  <a href="https://www.linkedin.com/in/fabian-louis-35b809198/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+    <span style="font-size: 18px; margin-left: 8px;">LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://twitter.com/_fabianlouis" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" alt="X (Twitter)"/>
+    <span style="font-size: 18px; margin-left: 8px;">X (Twitter)</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://fabianlouis.figma.site/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" alt="Portfolio"/>
+    <span style="font-size: 18px; margin-left: 8px;">Portfolio</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:fabianlouis99@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email"/>
+    <span style="font-size: 18px; margin-left: 8px;">Email</span>
   </a>
 </p>
+
 
 ---
 
