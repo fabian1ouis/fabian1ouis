@@ -9,7 +9,7 @@
 
 ---
 
-###  About Fabian Louis
+### 𓇼 About Fabian Louis
 
 I’m a **dedicated and creative developer** who thrives on transforming ideas into seamless digital experiences.  
 With a strong focus on **React.js** and **React Native**, I craft **intuitive**, **responsive**, and **impactful** web and mobile applications that connect with users.
