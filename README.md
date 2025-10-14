@@ -80,7 +80,7 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <a href="https://twitter.com/fabianlouis" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://catchupwithfab.lovable.app/" target="_blank">
+  <a href="https://fabianlouis.figma.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:fabianlouis07@gmail.com">
