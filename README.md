@@ -19,7 +19,8 @@ When I’m not coding, I write on my [blog](https://catchupwithfab.lovable.app/)
 
 ---
 
-### 🛠️ Skills & Expertise
+### <img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/238d189b-2e0c-4266-93fb-b937fb2ae903" />
+ Skills & Expertise
 
 #### 💡 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
