@@ -37,7 +37,7 @@ When I’m not coding, I enjoy sharing insights on my [blog](https://catchupwith
 #### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
 A fully functional blog platform spotlighting **Kenya’s latest events**, especially in the **tech ecosystem** — designed to keep readers in the loop and inspired.  
 
-#### ⚽ [Kick It With Fab](https://modern-sports-blog-w-5flc.bolt.host/)
+#### ⚽ [Kick It With Fab](https://kickitwithfab.bolt.host/)
 A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
 
 ---
