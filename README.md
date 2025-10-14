@@ -19,8 +19,7 @@ When I’m not coding, I write on my [blog](https://catchupwithfab.lovable.app/)
 
 ---
 
-### <img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/238d189b-2e0c-4266-93fb-b937fb2ae903" />
- Skills & Expertise
+### ☢️ Skills & Expertise
 
 #### 💡 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,13 +77,13 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <a href="https://www.linkedin.com/in/fabian-louis-35b809198/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/fabianlouis" target="_blank">
+  <a href="https://twitter.com/_fabianlouis" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://fabianlouis.figma.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:fabianlouis07@gmail.com">
+  <a href="mailto:fabianlouis99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -98,7 +97,7 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 
 ---
 
-###  “Code is more than syntax — it’s creativity in motion.”
+### ☢ “Code is more than syntax — it’s creativity in motion.”
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
   Thanks for visiting — and happy coding! 🚀
