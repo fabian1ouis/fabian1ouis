@@ -14,7 +14,7 @@
 I’m a **dedicated and creative developer** who thrives on transforming ideas into seamless digital experiences.  
 With a strong focus on **React.js** and **React Native**, I craft **intuitive**, **responsive**, and **impactful** web and mobile applications that connect with users.
 
-I love building software that not only looks great but also **solves real-world problems**.  
+I love building software that not only looks great but also **solves real-world problems**. View my [portfolio here](https://fabianlouis.figma.site/) 
 When I’m not coding, I write on my [blog](https://catchupwithfab.lovable.app/) about **tech**, **innovation**, and the **evolving digital landscape in Kenya**.
 
 ---
