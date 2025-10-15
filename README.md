@@ -7,23 +7,11 @@
   🚀 <strong>Full Stack Developer</strong> | 💻 <strong>React & React Native Specialist</strong> | 🌐 <strong>Open Source Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="https://committers.top/india_private" target="_blank">
-    <img src="https://img.shields.io/badge/Active-Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Badge"/>
-  </a>
-  <a href="https://www.spoj.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-Competitive%20Programming-orange?style=for-the-badge" alt="SPOJ Badge"/>
-  </a>
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Active%20Contributor-brightgreen?style=for-the-badge" alt="Stack Overflow Badge"/>
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 Hey, I'm Fabian Louis
 
-- 🌍 Based in **Kenya** <img src="https://flagcdn.com/w20/ke.png" alt="Kenya Flag" width="20" style="vertical-align: middle;"/>  
+- 🌍 Based in **Kenya** <img src="https://flagcdn.com/w20/ke.png" width="20" alt="Kenya Flag" style="vertical-align: middle;"/>  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
 - 🔭 Currently working on **ChatGPT integrations & modern web apps**  
 - 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
@@ -31,26 +19,16 @@
 
 ---
 
-### 🚀 Current Projects
-
-#### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
-A fully functional **blog platform** spotlighting **Kenya’s latest tech events** — designed to keep readers in the loop and inspired.
-
-#### ⚽ [Kick It With Fab](https://kickitwithfab.bolt.host/)
-A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- ✅ Using stable Heroku mirror for streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=09c011ab0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- ✅ Fixed streak with Vercel mirror -->
+  <img src="https://streak-stats.vercel.app?user=09c011ab0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -81,13 +59,9 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00C2CB&center=true&vCenter=true&width=400&lines=✨+I+build+with+these+tools;🚀+Clean+%26+Modern+Web+Apps;💻+Always+Learning+%26+Shipping!" alt="Animated text under tools" />
-</p>
-
 ---
 
-### 🪐 GitHub Trophies & Badges
+### 🪐 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=09c011ab0&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
