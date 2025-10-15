@@ -105,3 +105,8 @@
 ---
 
 ⭐️ *“Great products are built where passion meets code.”* — **Fabian Louis**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
+  Thanks for visiting — and happy coding! 🚀
+</p>
