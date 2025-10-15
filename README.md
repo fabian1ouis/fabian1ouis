@@ -1,116 +1,106 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=👋+Hey+I'm+Fabian+Louis;💻+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🚀+Building+impactful+digital+experiences" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Fabian Louis</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Developer gif"/>
-</p>
-
----
-
-### 𓇼 About Fabian Louis
-
-I’m a **dedicated and creative developer** who thrives on transforming ideas into seamless digital experiences.  
-With a strong focus on **React.js** and **React Native**, I craft **intuitive**, **responsive**, and **impactful** web and mobile applications that connect with users.
-
-I love building software that not only looks great but also **solves real-world problems**. View my [portfolio here](https://fabianlouis.figma.site/) 
-
-When I’m not coding, I write on my [blog](https://catchupwithfab.lovable.app/) about **tech**, **innovation**, and the **evolving digital landscape in Kenya**.
-
----
-
-### ☢️ Skills & Expertise
-
-#### 💡 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![NativeBase](https://img.shields.io/badge/NativeBase-3B82F6?style=for-the-badge&logo=react&logoColor=fff)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
-
-#### 🧠 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-
-#### 🧩 Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-
-#### ⚙️ Project Management
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=azuredevops&logoColor=fff)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=jira&logoColor=fff)
-
----
-
-### 🚀 Current Projects
-
-#### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
-A fully functional **blog platform** spotlighting **Kenya’s latest tech events** — designed to keep readers in the loop and inspired.
-
-#### ⚽ [Kick It With Fab](https://kickitwithfab.bolt.host/)
-A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=react&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=09c011ab0&theme=react&hide_border=true" height="160px"/>
+  🚀 <strong>Full Stack Developer</strong> | 💻 <strong>React & React Native Specialist</strong> | 🌐 <strong>Open Source Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=react&hide_border=true" height="160px"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabian-louis-35b809198/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
-    <span style="font-size: 18px; margin-left: 8px;">LinkedIn</span>
+  <a href="https://committers.top/india_private" target="_blank">
+    <img src="https://img.shields.io/badge/Active-Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://twitter.com/_fabianlouis" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" alt="X (Twitter)"/>
-    <span style="font-size: 18px; margin-left: 8px;">X (Twitter)</span>
+  <a href="https://www.spoj.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-Competitive%20Programming-orange?style=for-the-badge" alt="SPOJ Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://fabianlouis.figma.site/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" alt="Portfolio"/>
-    <span style="font-size: 18px; margin-left: 8px;">Portfolio</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:fabianlouis99@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email"/>
-    <span style="font-size: 18px; margin-left: 8px;">Email</span>
+  <a href="https://stackoverflow.com" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-Active%20Contributor-brightgreen?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
 </p>
 
+---
+
+### 🧑‍💻 About Me
+
+- 🌍 Based in **Kenya** 🇰🇪  
+- 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
+- 🔭 Currently working on **ChatGPT integrations & modern web apps**  
+- 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
+- 🤝 Open to collaborating on **AI**, **Web Platforms**, and **Open Source Projects**
 
 ---
 
-### 👀 Visitor Count
+### 🏆 Achievements & Highlights
+
+- 🏅 Active open source contributor & full-stack developer  
+- 💻 Passionate problem solver & tech community builder  
+- 🚀 Building visually stunning and performant applications  
+- 🪙 Exploring AI x Blockchain integrations  
+- 📈 Always learning — Always shipping
+
+---
+
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=09c011ab0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabianlouis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabianlouis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianlouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-### ☢ “Code is more than syntax — it’s creativity in motion.”
+### 💻 Tech Stack & Tools I Love
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
-  Thanks for visiting — and happy coding! 🚀
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,nodejs,express,html,css,tailwind,bootstrap,git,github,vscode,php,laravel,mongodb,mysql,postgres,aws,figma" />
 </p>
+
+---
+
+### 🪐 GitHub Trophies & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabianlouis&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### ☕ Sponsors & Support
+
+<p align="center">
+  If you like my work, consider supporting me 💙
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/fabianlouis">
+    <img src="https://img.shields.io/badge/☕️-Buy%20me%20a%20coffee-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🪪 Holopin Badges *(Optional)*
+
+<p align="center">
+  <a href="https://holopin.io">
+    <img src="https://holopin.me/fabianlouis" alt="Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
+  <a href="https://ko-fi.com/fabianlouis"><img src="https://img.shields.io/badge/Ko--fi-Support-red?style=for-the-badge&logo=kofi" /></a>
+  <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+⭐️ *“Great products are built where passion meets code.”* — **Fabian Louis**
+
