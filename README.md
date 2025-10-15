@@ -1,8 +1,3 @@
-<!-- 🪐 Banner Section (optional: upload banner.png to your repo) -->
-<p align="center">
-  <img src="banner.png" alt="Fabian Louis Banner" width="100%"/>
-</p>
-
 <!-- ✨ Animated Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hey+I'm+Fabian+Louis;🚀+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🌍+Tech+Enthusiast+from+Kenya;🎯+Building+impactful+digital+experiences" alt="Typing SVG" />
@@ -71,8 +66,55 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 
 ### 💻 Tech Stack & Tools I Love
 
+<!-- 🪄 Animated Tech Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,nodejs,express,html,css,tailwind,bootstrap,git,github,vscode,php,laravel,mongodb,mysql,postgres,aws,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="margin: 10px; animation: bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native" style="margin: 10px; animation: bounce 2s infinite 0.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="margin: 10px; animation: bounce 2s infinite 0.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" style="margin: 10px; animation: bounce 2s infinite 0.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 10px; animation: bounce 2s infinite 0.8s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" style="margin: 10px; animation: bounce 2s infinite 1s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" style="margin: 10px; animation: bounce 2s infinite 1.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" style="margin: 10px; animation: bounce 2s infinite 1.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" style="margin: 10px; animation: bounce 2s infinite 1.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" style="margin: 10px; animation: bounce 2s infinite 1.8s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" style="margin: 10px; animation: bounce 2s infinite 2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin: 10px; animation: bounce 2s infinite 2.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="margin: 10px; animation: bounce 2s infinite 2.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" style="margin: 10px; animation: bounce 2s infinite 2.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 10px; animation: bounce 2s infinite 2.8s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" style="margin: 10px; animation: bounce 2s infinite 3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" style="margin: 10px; animation: bounce 2s infinite 3.2s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 10px; animation: bounce 2s infinite 3.4s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin: 10px; animation: bounce 2s infinite 3.6s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" style="margin: 10px; animation: bounce 2s infinite 3.8s;" />
+</p>
+
+<!-- 🌟 Simple bounce animation -->
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+</style>
+
+---
+
+### 🪐 GitHub Trophies & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabianlouis&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🪪 Holopin Badges *(Optional)*
+
+<p align="center">
+  <a href="https://holopin.io">
+    <img src="https://holopin.me/fabianlouis" alt="Holopin Badges"/>
+  </a>
 </p>
 
 ---
@@ -82,7 +124,6 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 <p align="center">
   <a href="https://twitter.com/_fabianlouis"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
   <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
-  <a href="https://ko-fi.com/fabianlouis"><img src="https://img.shields.io/badge/Ko--fi-Support-red?style=for-the-badge&logo=kofi" /></a>
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
 </p>
 
