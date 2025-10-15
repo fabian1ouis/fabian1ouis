@@ -122,8 +122,8 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/_fabianlouis"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
+  <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://fabianlouis.figma.site"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
 </p>
 
