@@ -1,6 +1,6 @@
 <!-- ✨ Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hey+I'm+Fabian+Louis;🚀+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🌍+Tech+Enthusiast+from+Kenya;🎯+Building+impactful+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Fabian+Louis;🚀+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🌍+Tech+Enthusiast+from+Kenya;🎯+Building+impactful+digital+experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,14 +21,13 @@
 
 ---
 
-### 🧑‍💻 About Fabian Louis
+### 🧑‍💻 Hey, I'm Fabian Louis
 
-- 🌍 Based in **Kenya** <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/548de6a5-b4b5-4e73-8d6e-2fe8b8237cb4" />
-  
-- 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
-- 🔭 Currently working on **ChatGPT integrations & modern web apps**  
-- 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
-- 🤝 Open to collaborating on **AI**, **Web Platforms**, and **Open Source Projects**
+- <span class="emoji">🌍</span> Based in **Kenya** <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" width="20" height="15" alt="Kenya Flag" style="vertical-align: middle;"/>
+- <span class="emoji">💡</span> Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
+- <span class="emoji">🔭</span> Currently working on **ChatGPT integrations & modern web apps**  
+- <span class="emoji">🌱</span> Learning **LangChain**, **Web3**, and advanced backend architecture  
+- <span class="emoji">🤝</span> Open to collaborating on **AI**, **Web Platforms**, and **Open Source Projects**
 
 ---
 
@@ -77,7 +76,7 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" style="margin: 10px; animation: bounce 2s infinite 1.2s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" style="margin: 10px; animation: bounce 2s infinite 1.4s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" style="margin: 10px; animation: bounce 2s infinite 1.6s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" style="margin: 10px; animation: bounce 2s infinite 1.8s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" style="margin: 10px; animation: bounce 2s infinite 1.8s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" style="margin: 10px; animation: bounce 2s infinite 2s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin: 10px; animation: bounce 2s infinite 2.2s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="margin: 10px; animation: bounce 2s infinite 2.4s;" />
@@ -89,14 +88,6 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin: 10px; animation: bounce 2s infinite 3.6s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" style="margin: 10px; animation: bounce 2s infinite 3.8s;" />
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
-}
-</style>
 
 ---
 
@@ -127,3 +118,16 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ---
 
 ⭐️ *“Great products are built where passion meets code.”* — **Fabian Louis**
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+
+.emoji {
+  display: inline-block;
+  animation: bounce 2s infinite;
+}
+</style>
