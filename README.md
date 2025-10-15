@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 Hey, I'm Fabian Louis
 
-- 🌍 Based in **Kenya** 🇰🇪  
+- 🌍 Based in **Kenya** <img src="https://flagcdn.com/w20/ke.png" alt="Kenya Flag" width="20" style="vertical-align: middle;"/>  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
 - 🔭 Currently working on **ChatGPT integrations & modern web apps**  
 - 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
@@ -54,12 +54,12 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=09c011ab0&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=09c011ab0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -87,6 +87,10 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00C2CB&center=true&vCenter=true&width=400&lines=✨+I+build+with+these+tools;🚀+Clean+%26+Modern+Web+Apps;💻+Always+Learning+%26+Shipping!" alt="Animated text under tools" />
 </p>
 
 ---
