@@ -21,9 +21,10 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Fabian Louis
 
-- 🌍 Based in **Kenya** 🇰🇪  
+- 🌍 Based in **Kenya** <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/548de6a5-b4b5-4e73-8d6e-2fe8b8237cb4" />
+  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
 - 🔭 Currently working on **ChatGPT integrations & modern web apps**  
 - 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
@@ -110,7 +111,7 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/X-@FabianLouis-black?style=for-the-badge&logo=x" /></a>
   <a href="https://fabianlouis.figma.site"><img src="https://img.shields.io/badge/Portfolio-Figma-black?style=for-the-badge&logo=figma" /></a>
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
 </p>
