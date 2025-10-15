@@ -1,23 +1,26 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=👋+Hey+I'm+Fabian+Louis;🚀+Full+Stack+Developer;💻+React+%26+React+Native+Specialist;🌐+Open+Source+Enthusiast;✨+AI+%26+Blockchain+Lover">
-</h1>
-
-<!-- Visitor Badge -->
+<!-- 🪐 Banner Section (optional: upload banner.png to your repo) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabianlouis&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="banner.png" alt="Fabian Louis Banner" width="100%"/>
 </p>
 
-<!-- Social & Badges -->
+<!-- ✨ Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hey+I'm+Fabian+Louis;🚀+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🌍+Tech+Enthusiast+from+Kenya;🎯+Building+impactful+digital+experiences" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  🚀 <strong>Full Stack Developer</strong> | 💻 <strong>React & React Native Specialist</strong> | 🌐 <strong>Open Source Enthusiast</strong>
+</p>
+
 <p align="center">
   <a href="https://committers.top/india_private" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Active-Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Badge"/>
   </a>
   <a href="https://www.spoj.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SPOJ-Problem%20Solving-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Problem%20Solving-Competitive%20Programming-orange?style=for-the-badge" alt="SPOJ Badge"/>
   </a>
   <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-Active%20Contributor-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/StackOverflow-Active%20Contributor-brightgreen?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
 </p>
 
@@ -43,6 +46,16 @@
 
 ---
 
+### 🚀 Current Projects
+
+#### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
+A fully functional **blog platform** spotlighting **Kenya’s latest tech events** — designed to keep readers in the loop and inspired.
+
+#### ⚽ [Kick It With Fab](https://kickitwithfab.bolt.host/)
+A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -52,10 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabianlouis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianlouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabianlouis&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -68,58 +77,20 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🌍 **Kairi Travels** | Travel platform showcasing Kenya’s best safari adventures | Next.js, Tailwind, Node.js | [🔗 Visit Site](https://kairitravels.com) |
-| 💼 **Portfolio Website** | My personal portfolio showcasing my work and journey | React, Tailwind | [🔗 Visit Site](https://fabianlouis.figma.site) |
-| 🤖 **AI Integration Hub** | ChatGPT & AI-powered tools for devs | LangChain, Next.js | 🚧 Coming Soon |
-| 🧠 **Web3 Events Platform** | Gen Z events platform for Kenya | React Native, Web3.js | 🚧 In Progress |
-
-> ✨ *More projects coming soon...*
-
----
-
-### ☕ Sponsors & Support
-
-<p align="center">
-  If you like my work, consider supporting me 💙
-</p>
-
-<p align="center">
-  <a href="https://ko-fi.com/fabianlouis">
-    <img src="https://img.shields.io/badge/☕️-Buy%20me%20a%20coffee-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### 🪪 Holopin Badges *(Optional)*
-
-<p align="center">
-  <a href="https://holopin.io">
-    <img src="https://holopin.me/fabianlouis" alt="Holopin Badges"/>
-  </a>
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@FabianLouis-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://dev.to" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-Profile-000000?style=for-the-badge&logo=devdotto" />
-  </a>
-  <a href="https://ko-fi.com/fabianlouis" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi" />
-  </a>
-  <a href="mailto:fabianlouis99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://twitter.com/_fabianlouis"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://dev.to"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
+  <a href="https://ko-fi.com/fabianlouis"><img src="https://img.shields.io/badge/Ko--fi-Support-red?style=for-the-badge&logo=kofi" /></a>
+  <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabianlouis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
