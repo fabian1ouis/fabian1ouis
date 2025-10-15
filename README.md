@@ -111,4 +111,20 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 
 ### 🌍 Connect with Me
 
-<
+<p align="center">
+  <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/X-@FabianLouis-black?style=for-the-badge&logo=x" /></a>
+  <a href="https://fabianlouis.figma.site"><img src="https://img.shields.io/badge/Portfolio-Figma-black?style=for-the-badge&logo=figma" /></a>
+  <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+### 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabianlouis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+</p>
+
+---
+
+⭐️ *“Great products are built where passion meets code.”* — **Fabian Louis**
