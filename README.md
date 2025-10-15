@@ -31,16 +31,6 @@
 
 ---
 
-### 🏆 Achievements & Highlights
-
-- 🏅 Active open source contributor & full-stack developer  
-- 💻 Passionate problem solver & tech community builder  
-- 🚀 Building visually stunning and performant applications  
-- 🪙 Exploring AI x Blockchain integrations  
-- 📈 Always learning — Always shipping
-
----
-
 ### 🚀 Current Projects
 
 #### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
@@ -54,7 +44,8 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=09c011ab0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- ✅ Using stable Heroku mirror for streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=09c011ab0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -76,7 +67,8 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind CSS" />
+  <!-- ✅ Fixed Tailwind logo -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
