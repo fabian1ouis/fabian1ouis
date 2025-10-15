@@ -11,9 +11,6 @@
   <a href="https://committers.top/india_private" target="_blank">
     <img src="https://img.shields.io/badge/Active-Open%20Source%20Contributor-blue?style=for-the-badge" alt="Open Source Badge"/>
   </a>
-  <a href="https://www.spoj.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-Competitive%20Programming-orange?style=for-the-badge" alt="SPOJ Badge"/>
-  </a>
   <a href="https://stackoverflow.com" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-Active%20Contributor-brightgreen?style=for-the-badge" alt="Stack Overflow Badge"/>
   </a>
@@ -23,7 +20,7 @@
 
 ### 🧑‍💻 Hey, I'm Fabian Louis
 
-- 🌍 Based in **Kenya** <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" width="20" height="15" alt="Kenya Flag" style="vertical-align: middle;"/>
+- 🌍 Based in **Kenya** 🇰🇪  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
 - 🔭 Currently working on **ChatGPT integrations & modern web apps**  
 - 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
@@ -54,7 +51,7 @@ A modern **sports blog** capturing the **spirit of football in Kenya**, featurin
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fabianlouis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabianlouis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
