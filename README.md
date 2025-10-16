@@ -22,7 +22,6 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- ✅ Streak Stats with cache bust -->
   <img src="https://streak-stats.vercel.app?user=09c011ab0&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
 
@@ -32,12 +31,10 @@
 </p>
 
 <p align="center">
-  <!-- 🟡 Last Commit Badge -->
   <img src="https://img.shields.io/github/last-commit/09c011ab0/09c011ab0?style=for-the-badge&logo=github&color=0e75b6" alt="Last Commit Badge"/>
 </p>
 
 <p align="center">
-  <!-- 📈 Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=09c011ab0&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
