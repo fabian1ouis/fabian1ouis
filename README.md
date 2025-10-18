@@ -91,6 +91,7 @@
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://dev.to/fabianlou1s"><img src="https://img.shields.io/badge/Dev.to-fabianlou1s-black?style=for-the-badge&logo=dev.to" /></a>
   <a href="https://hashnode.com/@fabianlouis"><img src="https://img.shields.io/badge/Hashnode-fabianlouis-blue?style=for-the-badge&logo=hashnode" /></a>
+  <a href="https://fabianlou1s.medium.com/"><img src="https://img.shields.io/badge/Medium-fabianlou1s-white?style=for-the badge&logo=medium" /></a>
 </p>
 
 ---
