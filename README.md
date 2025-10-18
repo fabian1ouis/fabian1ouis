@@ -40,7 +40,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools I Love
+### 💻 Tech Stack & Tools I Love 𓆩♡𓆪
 
 <table align="center">
   <tr>
