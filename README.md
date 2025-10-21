@@ -13,7 +13,7 @@
 
 - 🌍 Based in **Kenya** <img src="https://flagcdn.com/w20/ke.png" width="20" alt="Kenya Flag" style="vertical-align: middle;"/>  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
-- 🔭 Currently working on **ChatGPT integrations & modern web apps**  
+- 🔭 Currently working on **ChatGPT integrations & Modern Web Applications**  
 - 🌱 Learning **Mobile App Development**, **Kotlin**, **Web3**, and advanced backend architecture  
 - 🤝 Open to collaborating on **AI**, **Web Platforms**, and **Open Source Projects**
 
