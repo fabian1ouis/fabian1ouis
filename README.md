@@ -78,7 +78,7 @@
 ### 🪐 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=09c011ab0&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fabian1ouis&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -100,12 +100,12 @@
 ### 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=09c011ab0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=fabian1ouis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
 
-⭐️ *“Great products are built where passion meets code.”* — **Fabian Louis**
+⭐️ *“Great products are built where passion meets code.”* — **Fab**
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
