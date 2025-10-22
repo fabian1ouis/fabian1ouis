@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=fabian1ouis&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fabian1ouis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
