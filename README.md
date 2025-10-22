@@ -22,20 +22,20 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=09c011ab0&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app?user=fabian1ouis&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09c011ab0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09c011ab0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabian1ouis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian1ouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/09c011ab0/09c011ab0?style=for-the-badge&logo=github&color=0e75b6" alt="Last Commit Badge"/>
+  <img src="https://img.shields.io/github/last-commit/fabian1ouis/fabian1ouis?style=for-the-badge&logo=github&color=0e75b6" alt="Last Commit Badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=09c011ab0&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabian1ouis&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
