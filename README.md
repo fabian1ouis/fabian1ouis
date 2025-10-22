@@ -88,7 +88,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabian-louis-dev/"><img src="https://img.shields.io/badge/LinkedIn-Fabian Louis-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/X-@_FabianLouis-black?style=for-the-badge&logo=x" /></a>
-  <a href="https://fabianlouis.figma.site"><img src="https://img.shields.io/badge/Portfolio-Figma-black?style=for-the-badge&logo=figma" /></a>
+  <a href="https://fabianlouis.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel" /></a>
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://dev.to/fabianlou1s"><img src="https://img.shields.io/badge/Dev.to-fabianlou1s-black?style=for-the-badge&logo=dev.to" /></a>
   <a href="https://hashnode.com/@fabianlouis"><img src="https://img.shields.io/badge/Hashnode-fabianlouis-blue?style=for-the-badge&logo=hashnode" /></a>
