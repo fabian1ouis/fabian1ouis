@@ -19,6 +19,20 @@
 
 ---
 
+### 🚀 Current Projects
+
+#### 📰 [Catch Up With Fab](https://catchupwithfab.lovable.app/)
+A fully functional **blog platform** spotlighting **Kenya’s latest tech events** — designed to keep readers in the loop and inspired.
+
+#### ⚽ [Kick It With Fab](https://kickitwithfab.bolt.host/)
+A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
+
+#### 🎯 [You Guessed It](https://fabian1ouis.github.io/youguessedit/)
+A fun and interactive **number guessing game** that challenges your intuition and logic!  
+Built with **HTML5**, **CSS3**, and **Vanilla JavaScript**, it’s a throwback to my early developer days — a simple yet powerful reminder that **every great journey starts with one line of code** 🚀.
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -55,7 +69,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/><br/>Express</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML5</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40"/><br/>Tailwind CSS</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/><br/>Bootstrap</td>
