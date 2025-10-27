@@ -1,20 +1,23 @@
-<!-- ✨ Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Fabian+Louis;🚀+Full+Stack+Developer;⚛️+React+%7C+React+Native+Specialist;🌍+Tech+Enthusiast+from+Kenya;🎯+Building+impactful+digital+experiences" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Fabian Louis</h1>
 
 <p align="center">
-  🚀 <strong>Full Stack Developer</strong> | 💻 <strong>React & React Native Specialist</strong> | 🌐 <strong>Open Source Enthusiast</strong>
+  🚀 Full Stack Developer | 💻 React & React Native Specialist | 🌐 Open Source Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=fabian1ouis" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=fabian1ouis" alt="Visitor Badge"/>
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 Hey, I'm Fabian Louis
+### 🧑‍💻 About Me
 
-- 🌍 Based in **Kenya** <img src="https://flagcdn.com/w20/ke.png" width="20" alt="Kenya Flag" style="vertical-align: middle;"/>  
+- 🌍 Based in **Kenya** 🇰🇪  
 - 💡 Passionate about **Full Stack Development**, **AI**, **Blockchain**, and **Next-Gen Web Technologies**  
-- 🔭 Currently working on **ChatGPT integrations & Modern Web Applications**  
-- 🌱 Learning **Mobile App Development**, **Kotlin**, **Web3**, and advanced backend architecture  
+- 🔭 Currently working on **ChatGPT integrations & modern web apps**  
+- 🌱 Learning **LangChain**, **Web3**, and advanced backend architecture  
 - 🤝 Open to collaborating on **AI**, **Web Platforms**, and **Open Source Projects**
 
 ---
@@ -28,102 +31,81 @@ A fully functional **blog platform** spotlighting **Kenya’s latest tech events
 A modern **sports blog** capturing the **spirit of football in Kenya**, featuring highlights, insights, and community engagement.
 
 #### 🎯 [You Guessed It](https://fabian1ouis.github.io/youguessedit/)
-A fun and interactive **number guessing game** that challenges your intuition and logic!  
-Built with **HTML5**, **CSS3**, and **Vanilla JavaScript**, it’s a throwback to my early developer days — a simple yet powerful reminder that **every great journey starts with one line of code** 🚀.
+A fun and interactive **number guessing game** where you challenge yourself to guess a random number within a range!  
+✨ Perfect beginner project that represents how every great developer journey starts — one simple line of code at a time.
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian1ouis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian1ouis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabian1ouis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian1ouis&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian1ouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/fabian1ouis/fabian1ouis?style=for-the-badge&logo=github&color=0e75b6" alt="Last Commit Badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabian1ouis&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fabian1ouis&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 💻 Tech Stack & Tools I Love 𓆩♡𓆪
+### 💻 Tech Stack & Tools I Love
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React Native</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>Python</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/><br/>Express</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40"/><br/>Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br/>GitHub</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br/>VSCode</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/><br/>PHP</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/><br/>Laravel</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br/>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/>Figma</td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- Animated Icons -->
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.15) rotate(5deg); }
+  100% { transform: scale(1); }
+}
+.tech-icon {
+  display: inline-block;
+  margin: 10px;
+  transition: transform 0.3s ease;
+  animation: pulse 3s infinite;
+}
+.tech-icon img {
+  width: 50px;
+  height: 50px;
+}
+.tech-label {
+  font-size: 14px;
+  color: #9ca3af;
+}
+</style>
+
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=react" /><div class="tech-label">React</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=nextjs" /><div class="tech-label">Next.js</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=reactnative" /><div class="tech-label">React Native</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=js" /><div class="tech-label">JavaScript</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=ts" /><div class="tech-label">TypeScript</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=tailwind" /><div class="tech-label">Tailwind CSS</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=nodejs" /><div class="tech-label">Node.js</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=express" /><div class="tech-label">Express</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=mongodb" /><div class="tech-label">MongoDB</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=postgres" /><div class="tech-label">PostgreSQL</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=git" /><div class="tech-label">Git</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=github" /><div class="tech-label">GitHub</div></span>
+<span class="tech-icon"><img src="https://skillicons.dev/icons?i=figma" /><div class="tech-label">Figma</div></span>
+
+</div>
 
 ---
 
-### 🪐 GitHub Trophies
+### 🪐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fabian1ouis&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="fabian1ouis trophies" />
-  </a>
-</p>
-
----
-
-### 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabian-louis-dev/"><img src="https://img.shields.io/badge/LinkedIn-Fabian Louis-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/_fabianlouis"><img src="https://img.shields.io/badge/X-@_FabianLouis-black?style=for-the-badge&logo=x" /></a>
-  <a href="https://fabianlouis.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-@FabianLouis-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://dev.to/fabian1ouis"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=devdotto" /></a>
   <a href="mailto:fabianlouis99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://dev.to/fabianlou1s"><img src="https://img.shields.io/badge/Dev.to-fabianlou1s-black?style=for-the-badge&logo=dev.to" /></a>
-  <a href="https://hashnode.com/@fabianlouis"><img src="https://img.shields.io/badge/Hashnode-fabianlouis-blue?style=for-the-badge&logo=hashnode" /></a>
-  <a href="https://fabianlou1s.medium.com/"><img src="https://img.shields.io/badge/Medium-fabianlou1s-grey?style=for-the-badge&logo=medium" /></a>
 </p>
 
 ---
 
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fabian1ouis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
-</p>
-
----
-
-⭐️ *“Great products are built where passion meets code.”* — **Fab**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
-  Thanks for visiting — and happy coding! 🚀
-</p>
+⭐ *“Great products are built where passion meets code.”* — **Fabian Louis**
