@@ -36,28 +36,21 @@ Built with **HTML5**, **CSS3**, and **Vanilla JavaScript**, it’s a throwback t
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- ✅ Fixed GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fabian1ouis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- ✅ GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=fabian1ouis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  
-  <!-- ✅ Updated Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian1ouis&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <!-- ✅ Last Commit Badge -->
   <img src="https://img.shields.io/github/last-commit/fabian1ouis/fabian1ouis?style=for-the-badge&logo=github&color=0e75b6" alt="Last Commit Badge"/>
 </p>
 
 <p align="center">
-  <!-- ✅ Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabian1ouis&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
-
 
 ---
 
@@ -99,7 +92,9 @@ Built with **HTML5**, **CSS3**, and **Vanilla JavaScript**, it’s a throwback t
 ### 🪐 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabian1ouis&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fabian1ouis&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="fabian1ouis trophies" />
+  </a>
 </p>
 
 ---
